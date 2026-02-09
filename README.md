@@ -1,4 +1,4 @@
-# Medical PDF Assistant - Retrieval-Augmented Generation (RAG)
+# Medical Assistant - Retrieval-Augmented Generation (RAG)
 
 **Project Overview**
 - **Problem:**: This project converts a medical reference PDF into a searchable vector knowledge base and answers clinical questions by combining retrieval from that knowledge base with an LLM (RAG). It helps surface concise, context-grounded answers from manual excerpts instead of relying solely on the model's parametric memory.
